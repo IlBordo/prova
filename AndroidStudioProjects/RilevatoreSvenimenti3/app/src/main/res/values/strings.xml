@@ -1,0 +1,9 @@
+<resources>
+    <string-array name="sosmode">
+        <item>Chiama SOS</item>
+        <item>Messaggio a SOS</item>
+        <item>Chiamata e messaggio</item>
+
+
+    </string-array>
+</resources>
